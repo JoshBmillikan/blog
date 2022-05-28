@@ -1,1 +1,6 @@
+title: Blog
+permalink: /:collection/:year-:month-:day-:title:output_ext
+show_excerpts: true
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
